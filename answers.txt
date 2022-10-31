@@ -1,3 +1,15 @@
 Your answers go here!
+John Goodrich answers
+1) Linus Torvalds
+2) He also created Linux Kernel
+3) 2005
+4) git innit
+5) the git push command allows an individual to upload a local repo to a remote one
+6) .gitignore tells git not to track certain files
+7) a fork creates a copy of a repository. This is useful because it allows you to have your own copy of a repository
+8) git clone allows you to create a copy of a remote repository to the local machine
+9) NEVER
+10) True
+
 Please include your name and number your answers.
 ==================================================
